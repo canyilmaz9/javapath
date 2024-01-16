@@ -24,6 +24,10 @@ Write a program to calculate combinations in Java.
 Combination formula
 C(n,r) = n! / (r! * (n-r)!)
 
+## Harmonic Numbers
+
+It can be shown to diverge using the integral test by comparison with the function 1/x.
+
 ## ProgramToCalculateExponents
 
 Create a program in Java that calculates exponents with the values entered by the user using the "For Loop".
