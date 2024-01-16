@@ -16,6 +16,10 @@ Let's also look at the number 1342. Since the number (1^4)+(3^4)+(4^4)+(2^4) =1+
 
 54748=5^5+4^5+7^5+4^5+8^5=3125+1024+16807+1024+32768=54748
 
+## Diamond with stars
+
+Make stars and diamonds using loops in Java.
+
 ## FactorialAndCombination
 
 The number of different groups with r elements to be formed with the elements of a set with n elements is called the r combination of n. The combination of n with r is shown as C(n,r).
