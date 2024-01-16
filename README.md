@@ -12,5 +12,9 @@ Write a program to calculate combinations in Java.
 Combination formula
 C(n,r) = n! / (r! * (n-r)!)
 
+## ProgramToCalculateExponents
+
+Create a program in Java that calculates exponents with the values entered by the user using the "For Loop".
+
 ## ProgramToFindPowersOf4And5LessThanTheEnteredNumber
 Write a program that prints the powers of 4 and 5 up to the entered number using Java loops.
