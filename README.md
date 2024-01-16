@@ -16,7 +16,7 @@ Let's also look at the number 1342. Since the number (1^4)+(3^4)+(4^4)+(2^4) =1+
 
 54748=5^5+4^5+7^5+4^5+8^5=3125+1024+16807+1024+32768=54748
 
-## Diamond with stars
+## DiamondWithStars
 
 Make stars and diamonds using loops in Java.
 
@@ -28,7 +28,7 @@ Write a program to calculate combinations in Java.
 Combination formula
 C(n,r) = n! / (r! * (n-r)!)
 
-## Harmonic Numbers
+## HarmonicNumbers
 
 It can be shown to diverge using the integral test by comparison with the function 1/x.
 
