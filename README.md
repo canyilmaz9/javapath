@@ -66,6 +66,9 @@ C(n,r) = n! / (r! * (n-r)!)
 
 It can be shown to diverge using the integral test by comparison with the function 1/x.
 
+## LargestAndSmallestNumber
+Write a program in Java that finds the largest and smallest numbers among N counting numbers entered from the keyboard and writes these numbers to the screen.
+
 ## ProgramToCalculateExponents
 
 Create a program in Java that calculates exponents with the values entered by the user using the "For Loop".
