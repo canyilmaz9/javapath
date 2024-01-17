@@ -21,10 +21,38 @@ Let's also look at the number 1342. Since the number (1^4)+(3^4)+(4^4)+(2^4) =1+
 54748=5^5+4^5+7^5+4^5+8^5=3125+1024+16807+1024+32768=54748
 
 
-
 ## DiamondWithStars
 
 Make stars and diamonds using loops in Java.
+
+## EbobEkok
+
+We write a program in Java that finds the GCF and LCM values of two numbers.
+
+GCF: The largest common divisor of two or more natural numbers is called the greatest common divisor of these numbers, in short, GCF.
+
+EXAMPLE: Let's find the greatest common divisor of the numbers 18 and 24 step by step.
+
+Divisors of 18: 1, 2, 3, 6, 9, 18
+
+Divisors of 24: 1, 2, 3, 4, 6, 8, 12, 24
+
+The largest of these common divisors is the number 6, EBOB.
+
+LCM: The smallest common multiple of two or more natural numbers is called the least common multiple of these numbers, in short, LCM.
+
+EXAMPLE: Let's find the least common multiple of the numbers 6 and 8 step by step.
+
+Multiples of 6: 6, 12, 18, 24, 30, 36, 42, 48, …
+
+Multiples of 8: 8, 16, 24, 32, 40, 48, 56, 64, …
+
+The smallest of these common multiples is the number 24, LCM.
+
+LCM = (n1*n2) / GCF
+
+### Homework
+Write the GCF and LCM values of two numbers in Java using the "While Loop".
 
 ## FactorialAndCombination
 
