@@ -1,15 +1,12 @@
 # javapath
 
 ## ATMProject
-
 Create an ATM project where the user can manage his bank account using Java loops. Perform ATM transactions using "Switch-Case".
 
 ## AddingEvenNumbersAndMultiplesOf4
-
 Write a program in Java that accepts input from the user until a single number is entered using loops, adds even numbers and multiples of 4 from the entered values and prints them on the screen.
 
 ## ArmstrongNumbers
-
 If the sum of the nth powers of the digits of an n-digit number is equal to the number itself, such numbers are called Armstrong numbers.
 
 Take the number 407 for example. Returns (4^3)+ (0^3)+(7^3) = 64+0+343 = 407. This shows that the number 407 is an Armstrong number.
@@ -20,13 +17,10 @@ Let's also look at the number 1342. Since the number (1^4)+(3^4)+(4^4)+(2^4) =1+
 
 54748=5^5+4^5+7^5+4^5+8^5=3125+1024+16807+1024+32768=54748
 
-
 ## DiamondWithStars
-
 Make stars and diamonds using loops in Java.
 
 ## EbobEkok
-
 We write a program in Java that finds the GCF and LCM values of two numbers.
 
 GCF: The largest common divisor of two or more natural numbers is called the greatest common divisor of these numbers, in short, GCF.
@@ -55,7 +49,6 @@ LCM = (n1*n2) / GCF
 Write the GCF and LCM values of two numbers in Java using the "While Loop".
 
 ## FactorialAndCombination
-
 The number of different groups with r elements to be formed with the elements of a set with n elements is called the r combination of n. The combination of n with r is shown as C(n,r).
 
 Write a program to calculate combinations in Java.
@@ -63,14 +56,18 @@ Combination formula
 C(n,r) = n! / (r! * (n-r)!)
 
 ## HarmonicNumbers
-
 It can be shown to diverge using the integral test by comparison with the function 1/x.
 
 ## LargestAndSmallestNumber
 Write a program in Java that finds the largest and smallest numbers among N counting numbers entered from the keyboard and writes these numbers to the screen.
 
-## ProgramToCalculateExponents
+## PerfectNumber
+It detects whether a number entered from the keyboard is a perfect number or not, and if the number is a perfect number, "it is a perfect number" is displayed on the screen. If not, “it is not the perfect number.” Write a program in Java language that writes the expressions to the screen.
 
+What is a Perfect Number?
+A number whose sum of positive integer factors (dividing numbers without remainder) is equal to itself, excluding the number itself, is called a perfect number.
+
+## ProgramToCalculateExponents
 Create a program in Java that calculates exponents with the values entered by the user using the "For Loop".
 
 ## ProgramToFindPowersOf4And5LessThanTheEnteredNumber
