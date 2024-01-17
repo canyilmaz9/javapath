@@ -58,6 +58,9 @@ C(n,r) = n! / (r! * (n-r)!)
 ## HarmonicNumbers
 It can be shown to diverge using the integral test by comparison with the function 1/x.
 
+## InvertedTriangle
+Write a program in Java that takes the number of digits from the user and draws an inverted triangle on the screen with asterisks (*) using loops.
+
 ## LargestAndSmallestNumber
 Write a program in Java that finds the largest and smallest numbers among N counting numbers entered from the keyboard and writes these numbers to the screen.
 
