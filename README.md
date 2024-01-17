@@ -16,6 +16,10 @@ Let's also look at the number 1342. Since the number (1^4)+(3^4)+(4^4)+(2^4) =1+
 
 54748=5^5+4^5+7^5+4^5+8^5=3125+1024+16807+1024+32768=54748
 
+## ATMProject
+
+Create an ATM project where the user can manage his bank account using Java loops. Perform ATM transactions using "Switch-Case".
+
 ## DiamondWithStars
 
 Make stars and diamonds using loops in Java.
