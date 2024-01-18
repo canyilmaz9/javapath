@@ -70,6 +70,9 @@ It detects whether a number entered from the keyboard is a perfect number or not
 What is a Perfect Number?
 A number whose sum of positive integer factors (dividing numbers without remainder) is equal to itself, excluding the number itself, is called a perfect number.
 
+## PrimeNumberBetween1And100
+Write a program in Java that prints prime numbers between 1 and 100 on the screen.
+
 ## ProgramToCalculateExponents
 Create a program in Java that calculates exponents with the values entered by the user using the "For Loop".
 
