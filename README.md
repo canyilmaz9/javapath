@@ -74,6 +74,12 @@ Write a program in Java that takes the number of digits from the user and draws 
 ## LargestAndSmallestNumber
 Write a program in Java that finds the largest and smallest numbers among N counting numbers entered from the keyboard and writes these numbers to the screen.
 
+##PalindromeNumber
+What is a Palindrome Number?
+Palindromic numbers are numbers that are the same in the direction they are read when read from both sides.
+
+Example: 1, 4, 8, 99, 101, 363, 4004, 9889
+
 ## PerfectNumber
 It detects whether a number entered from the keyboard is a perfect number or not, and if the number is a perfect number, "it is a perfect number" is displayed on the screen. If not, “it is not the perfect number.” Write a program in Java language that writes the expressions to the screen.
 
