@@ -92,5 +92,8 @@ Write a program in Java that prints prime numbers between 1 and 100 on the scree
 ## ProgramToCalculateExponents
 Create a program in Java that calculates exponents with the values entered by the user using the "For Loop".
 
+## ProgramToFindFibonacciSeriesWithRecursive
+Create a program to find Fibonacci series using recursive methods in Java.
+
 ## ProgramToFindPowersOf4And5LessThanTheEnteredNumber
 Write a program that prints the powers of 4 and 5 up to the entered number using Java loops.
