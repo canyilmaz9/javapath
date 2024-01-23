@@ -6,6 +6,19 @@ Create an ATM project where the user can manage his bank account using Java loop
 ## AddingEvenNumbersAndMultiplesOf4
 Write a program in Java that accepts input from the user until a single number is entered using loops, adds even numbers and multiples of 4 from the entered values and prints them on the screen.
 
+## AdvancedCalculator
+Create a calculator with Java that performs user-selected operations.
+Functions of the calculator:
+
+1- Summation Operation
+2- Removal Operation
+3- Multiplication Operation
+4- Division Operation
+5- Exponent Number Calculation
+6- Factorial Calculation
+7- Getting Mode
+8- Rectangular Area and Perimeter Calculation
+
 ## ArmstrongNumbers
 If the sum of the nth powers of the digits of an n-digit number is equal to the number itself, such numbers are called Armstrong numbers.
 
