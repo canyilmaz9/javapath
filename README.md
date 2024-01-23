@@ -105,6 +105,9 @@ A number whose sum of positive integer factors (dividing numbers without remaind
 ## PrimeNumberBetween1And100
 Write a program in Java that prints prime numbers between 1 and 100 on the screen.
 
+## PrimeNumberWithRecursive
+Write a program in Java language that finds out whether the number received from the user is a "Prime" number, using the "Recursive" method.
+
 ## ProgramToCalculateExponents
 Create a program in Java that calculates exponents with the values entered by the user using the "For Loop".
 
