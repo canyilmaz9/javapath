@@ -30,6 +30,9 @@ Let's also look at the number 1342. Since the number (1^4)+(3^4)+(4^4)+(2^4) =1+
 
 54748=5^5+4^5+7^5+4^5+8^5=3125+1024+16807+1024+32768=54748
 
+## ArrayMinMaxValue
+Write a program that finds the closest number to the smallest number and the closest number to the largest number of the elements in the array.
+
 ## CalculatingExponentsWithRecursiveMethods
 Write a program in Java language that uses the "Recursive" method to perform the exponentiation process whose base and exponent values are received from the user.
 
