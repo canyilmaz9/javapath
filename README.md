@@ -103,6 +103,10 @@ The Fibonacci sequence starts from 0 and goes to infinity. Each digit is added t
 
 9 Element Fibonacci Series: 0 1 1 2 3 5 8 13 21 34
 
+## HarmonicMean
+Write a program that calculates the harmonic mean of the numbers in the series. 
+Harmonic Mean formula: n (number of elements) / harmonic series of elements(1+1/2+1/3... +1/n)
+
 ## HarmonicNumbers
 It can be shown to diverge using the integral test by comparison with the function 1/x.
 
