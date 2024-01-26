@@ -146,6 +146,9 @@ Create a program to find Fibonacci series using recursive methods in Java.
 ## ProgramToFindPowersOf4And5LessThanTheEnteredNumber
 Write a program that prints the powers of 4 and 5 up to the entered number using Java loops.
 
+## RepeatingEvenNumbers
+Write a program that indicates repeating even numbers in a number sequence.
+
 ## Subtraction5andAdd5
 Write a "Recursive" method in Java language without using a loop that obeys the following rule according to the n value received from the user.
 
