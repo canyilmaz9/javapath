@@ -149,6 +149,9 @@ Write a program that prints the powers of 4 and 5 up to the entered number using
 ## RepeatingEvenNumbers
 Write a program that indicates repeating even numbers in a number sequence.
 
+## RepeatingNumbers
+Write a program in Java language that finds the frequency of the elements in the array, that is, how many times they are repeated.
+
 ## SortingElementsinAnArray
 Write a program in Java language that sorts the elements in the array from smallest to largest. Get the size of the array and the elements of the array from the user.
 
