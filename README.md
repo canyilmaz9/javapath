@@ -150,3 +150,6 @@ Write a program that prints the powers of 4 and 5 up to the entered number using
 Write a "Recursive" method in Java language without using a loop that obeys the following rule according to the n value received from the user.
 
 Rule: Subtract 5 from the entered number until the entered number is 0 or negative. Print the last value on the screen during each subtraction. After the number becomes negative or 0, add 5 again. Again, print the last value of the number to the screen with each addition.
+
+## WritingBwithMultipleArrays
+Write a program that displays the letter "B" on the screen using "stars" using multidimensional arrays.
