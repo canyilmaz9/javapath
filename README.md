@@ -160,5 +160,11 @@ Write a "Recursive" method in Java language without using a loop that obeys the 
 
 Rule: Subtract 5 from the entered number until the entered number is 0 or negative. Print the last value on the screen during each subtraction. After the number becomes negative or 0, add 5 again. Again, print the last value of the number to the screen with each addition.
 
+## TransposeOfTheMatrix
+Write a program in Java language to find the transpose of a matrix created with multidimensional arrays.
+
+Transposing the matrix means swapping the same numbered rows and columns of the matrix. The matrix obtained as a result of this process is the transpose of the initial matrix. At this stage, the transpose of a kxn matrix becomes an nxk matrix. For example, let's have a matrix A. The transpose of this matrix A is denoted by A^T (A over T).
+
+
 ## WritingBwithMultipleArrays
 Write a program that displays the letter "B" on the screen using "stars" using multidimensional arrays.
