@@ -146,6 +146,11 @@ Create a program in Java that calculates exponents with the values entered by th
 ## ProgramToFindFibonacciSeriesWithRecursive
 Create a program to find Fibonacci series using recursive methods in Java.
 
+## ProgramToFindPalindromeWords
+Write a program in Java that finds out whether the word entered by the user is "Palindromic" or not.
+If reading a word backwards gives the same word, that word is a "Palindromic Word".
+Example: abba , asa , kavak, kayak.
+
 ## ProgramToFindPowersOf4And5LessThanTheEnteredNumber
 Write a program that prints the powers of 4 and 5 up to the entered number using Java loops.
 
