@@ -122,6 +122,9 @@ Write a program in Java that takes the number of digits from the user and draws 
 ## LargestAndSmallestNumber
 Write a program in Java that finds the largest and smallest numbers among N counting numbers entered from the keyboard and writes these numbers to the screen.
 
+## MinefieldGame
+Make a Minesweeper game in Java.
+
 ## PalindromeNumber
 What is a Palindrome Number?
 Palindromic numbers are numbers that are the same in the direction they are read when read from both sides.
