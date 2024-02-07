@@ -176,6 +176,14 @@ Write a program in Java language to find the transpose of a matrix created with 
 
 Transposing the matrix means swapping the same numbered rows and columns of the matrix. The matrix obtained as a result of this process is the transpose of the initial matrix. At this stage, the transpose of a kxn matrix becomes an nxk matrix. For example, let's have a matrix A. The transpose of this matrix A is denoted by A^T (A over T).
 
+## University Management System
+1 - There are classrooms, offices and departments belonging to the university.
+2 - Offices are belonging to departments.
+3 - There are employees of the university. These employees may be professors or civil servants.
+4 - Every employee works in an office.
 
+Draw the Class diagram depicting this system.
+
+Note: There is no need to specify the attributes and behaviors of the classes.
 ## WritingBwithMultipleArrays
 Write a program that displays the letter "B" on the screen using "stars" using multidimensional arrays.
