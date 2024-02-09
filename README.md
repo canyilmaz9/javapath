@@ -138,6 +138,16 @@ Write a program in Java that finds the largest and smallest numbers among N coun
 ## MinefieldGame
 Make a Minesweeper game in Java.
 
+## OnlineFilmApp
+Design the system of the application that sells or rents movies online.
+
+Movies can be listed and sorted in the application and users can subscribe to the application.
+Users purchase credits through the system for subscription.
+Only subscribed users can rent movies with their credits, and the credit cost of the rented movie will be deducted from their account.
+Regular users and subscribers can purchase movies.
+If the movie is not available, it can be requested.
+Draw the Class diagram depicting this system.
+
 ## PalindromeNumber
 What is a Palindrome Number?
 Palindromic numbers are numbers that are the same in the direction they are read when read from both sides.
