@@ -202,6 +202,9 @@ Write a program in Java language that finds the frequency of the elements in the
 ## SortingElementsinAnArray
 Write a program in Java language that sorts the elements in the array from smallest to largest. Get the size of the array and the elements of the array from the user.
 
+## SortingNumbers - OrderNumbers
+Write a program that sorts the 3 entered numbers "from smallest to largest".
+
 ## Subtraction5andAdd5
 Write a "Recursive" method in Java language without using a loop that obeys the following rule according to the n value received from the user.
 
