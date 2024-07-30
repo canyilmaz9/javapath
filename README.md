@@ -142,6 +142,9 @@ Harmonic Mean formula: n (number of elements) / harmonic series of elements(1+1/
 ## HarmonicNumbers
 It can be shown to diverge using the integral test by comparison with the function 1/x.
 
+## HesapMakinesi
+Build the calculator using switch-case.
+
 ## Kullanici
 Basic User Login
 
