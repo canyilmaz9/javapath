@@ -231,6 +231,15 @@ Draw the Class diagram depicting this system.
 
 Note: There is no need to specify the attributes and behaviors of the classes.
 
+## WeatherTemperature
+Conditions:
+Suggest "Skiing" if the temperature is less than 5 degrees.
+
+-If the temperature is between 5 and 15 degrees, suggest the "Cinema" activity.
+-If the temperature is between 15 and 25 degrees, suggest the "Picnic" activity.
+-If the temperature is greater than 25 degrees, recommend the "Swimming" activity.
+Instead of using if-else blocks, question operator was used in the second java class.
+
 ## WritingBwithMultipleArrays
 Write a program that displays the letter "B" on the screen using "stars" using multidimensional arrays.
 
