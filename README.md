@@ -173,6 +173,12 @@ Palindromic numbers are numbers that are the same in the direction they are read
 
 Example: 1, 4, 8, 99, 101, 363, 4004, 9889
 
+## Pass the class
+Lessons: Mathematics, Physics, Turkish, Chemistry, Music
+Passing Score: 55
+Homework
+If the course grades entered are not between 0 and 100, they are not included in the average.
+
 ## PerfectNumber
 It detects whether a number entered from the keyboard is a perfect number or not, and if the number is a perfect number, "it is a perfect number" is displayed on the screen. If not, “it is not the perfect number.” Write a program in Java language that writes the expressions to the screen.
 
