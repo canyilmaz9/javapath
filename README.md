@@ -174,6 +174,12 @@ Write a program in Java that takes the number of digits from the user and draws 
 ## LargestAndSmallestNumber
 Write a program in Java that finds the largest and smallest numbers among N counting numbers entered from the keyboard and writes these numbers to the screen.
 
+## Manav-Kasa-Programi
+Write a program in Java that prints the total amount of products purchased by users from the grocery store according to their kilogram values.
+
+Fruits and KG Prices
+Pear: 2.14 TL Apple: 3.67 TL Tomato: 1.11 TL Banana: 0.95 TL Eggplant: 5.00 TL
+
 ## MinefieldGame
 Make a Minesweeper game in Java.
 
