@@ -1,6 +1,6 @@
 # javapath
 
-## ATMProject
+## ATMProjectx
 Create an ATM project where the user can manage his bank account using Java loops. Perform ATM transactions using "Switch-Case".
 
 ## AddingEvenNumbersAndMultiplesOf4
